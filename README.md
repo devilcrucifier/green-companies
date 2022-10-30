@@ -12,7 +12,29 @@
 - [West and Central Asia](#west-and-central-asia)
 
 ## Global
-
+1.LAUDATO SI’ MOVEMENT (Formerly, Global Catholic Climate Movement)
+2.WWF
+3.350.org
+4.Climate Foundation
+5.Greenpeace
+6.Earth Island Institute
+7.Rainforest Action Network
+8.Friends of the Earth
+9.Global Footprint Network
+10.Depave
+11.Earth Day Network
+12.Natural Resources Defense Council
+13.Rainforest Alliance
+14.Earthjustice
+15.The Climate Reality Project
+16.Restore The Earth
+17.C40 Cities Climate Leadership Group
+18.Fairtrade International
+19.Earthworks
+20.Environmental Defense Fund
+21.Conservation International
+22.The Carbon Underground
+23.Green Cross International
 
 ## India
 1.AECOM
