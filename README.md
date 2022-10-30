@@ -15,6 +15,21 @@
 
 
 ## India
+1.AECOM
+2.HDR
+3.Planet
+4.Aurora Solar
+5.Redaptive
+6.Uplight
+7.Inspire
+8.WeaveGrid
+9.Encamp
+10.Sealed
+11.Agrinia Exulite Agro-Science
+12.DTD Studio
+13.IKTARA
+14.S.K. Engineers
+15.Association Of Green Industries & Services (AGIS)
 
 
 ## Europe
