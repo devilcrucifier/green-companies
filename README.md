@@ -12,7 +12,16 @@
 - [West and Central Asia](#west-and-central-asia)
 
 ## Global
-
+1. Godrej Consumer Products Limited
+2. Infosys Limited
+3. Wipro Limited
+3. Wipro Limited
+5. ITC Limited
+6. Jubilant Life Sciences Limited
+7. Grasim Industries Limited
+8. Vedanta Limited
+9. Tata Power Company Limited
+10. JSW Steel Limited
 
 ## India
 
