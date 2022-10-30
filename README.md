@@ -62,6 +62,14 @@
 - IKTARA
 - S.K. Engineers
 - Association Of Green Industries & Services (AGIS)
+- Ather Energy.
+- Phool.
+- ZunRoof.
+- Yulu.
+- Boss Lady Cosmetics.
+- BluSmart.
+- Banyan Nation.
+- Just Organik.
 
 
 ## Europe
