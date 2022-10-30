@@ -49,6 +49,23 @@
 
 
 ## Africa
+1.The Green Belt Movement (GBM)
+2.Environment Liaison Centre International (ELCI)
+3.Giving Life Nature Volunteer
+4.African Youth Initiative on Climate Change (AYICC)
+5.Green Africa Foundation
+6.The health of Mother Earth Foundation (HOMEF)
+7.International Centre for Environmental Education and Community Development (ICENECDEV)
+8.African Sustainable Energy Association (AFSEA)
+9.Mohammed VI Foundation for Eastern Africa Environmental Network (EAEN)
+10.Energy, Environment and Development Network for Africa (AFREPEN/FWD)
+11.Eastern Africa Environmental Network (EAEN)
+12.Centre for Justice Governance and Environmental Action
+13.Environmental Education Through Film (EETF)
+14.The Horn of Africa Regional Environment Centre and Network (HoA-REC&N)
+15.African Rainforest Conservancy
+
+
 
 
 ## South America
