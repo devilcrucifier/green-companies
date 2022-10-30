@@ -33,6 +33,19 @@
 
 
 ## Europe
+1.EEB (European Environmental Bureau)
+2.CAN Europe
+3.European Cyclists’ Federation (ECF)
+4.Seas at Risk
+5.European Environment Agency (EEA)
+6.WildCats Conservation Alliance
+7.DSWF (David Shepherd Wildlife Foundation)
+8.Coalition Clean Baltic (CCB)
+9.Royal Society for the Protection of Birds (RSPB)
+10.International Friends of Nature
+11.International Solar Energy Society (ISES)
+12.Friends of the Earth Europe
+13.Forests and the European Union Resource Network
 
 
 ## Africa
