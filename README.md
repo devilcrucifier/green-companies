@@ -109,6 +109,12 @@
 
 
 ## South America
+- Colorchain
+- Sensegrass
+- SimpliRoute
+- Kiwibot
+- NotCo
+
 
 
 ## West and Central Asia
