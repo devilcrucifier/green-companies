@@ -124,6 +124,11 @@
 - Glasst
 - Moss.earth
 - TerraFirma.SW
+- Sinctronics
+- WiseWaste
+- Recicladora Urbana
+- New Hope EcoTech
+- Valopes
 
 
 
