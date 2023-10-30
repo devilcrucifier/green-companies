@@ -70,6 +70,8 @@
 - BluSmart.
 - Banyan Nation.
 - Just Organik.
+- Orb Energy
+
 
 
 ## Europe
@@ -129,8 +131,6 @@
 - Recicladora Urbana
 - New Hope EcoTech
 - Valopes
-
-
 
 
 
