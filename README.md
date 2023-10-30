@@ -85,7 +85,18 @@
 - Sea 6 Energy
 - Pi Green Innovations
 - Recykal
+- Praj Industries
+- Gravita
+- VaTech Wabag
+- ION Exchange
+- Suzlon Energy
+- Adani Green
 - 
+
+
+
+
+
 
 
 
