@@ -114,6 +114,14 @@
 - SimpliRoute
 - Kiwibot
 - NotCo
+- Positive Ventures
+- Ruuf
+- Those Coffee People
+- Fundación Botellas de Amor
+
+
+
+
 
 
 
