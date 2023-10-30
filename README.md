@@ -78,6 +78,15 @@
 - Digital Green
 - Zunroof
 - Ace Green Recycling
+- Chakr Innovation
+- Offgrid Energy
+- WEGoT
+- Swajal
+- Sea 6 Energy
+- Pi Green Innovations
+- Recykal
+- 
+
 
 
 
